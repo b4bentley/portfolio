@@ -132,8 +132,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	background-color: #1a946f;
 }
 
@@ -147,8 +147,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footerwrap {
-	padding-top: 70px;
-	padding-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 30px;
 	background-color: #286927;
 }
 
@@ -229,6 +229,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 form{
-	margin-top: 30px;
+	margin-top: 70px;
 }
 
